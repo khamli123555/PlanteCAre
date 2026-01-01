@@ -22,4 +22,4 @@ The **PlantCare Management System** is a sleek, web-based application that allow
 ### 1. Clone the repository
 Start by cloning the project to your local machine:
 ```bash
-git clone <repository-url>
+git clone (https://github.com/khamli123555/PlanteCAre.git)
